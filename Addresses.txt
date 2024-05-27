@@ -1,0 +1,6 @@
+mint address:
+    7qy2JDJ7XvtTGxWypKZK8NFxSV6ttrmdiZLpchgExHj7
+
+another user:
+    public key : Dyzvjp4tWNxrYanJBSw1sxqSiD7o7XWr4cNL96WqwHXo
+    
